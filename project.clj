@@ -35,7 +35,7 @@
                  [org.apache.logging.log4j/log4j-core "2.6.2"]
                  [org.clojure/clojure "1.8.0"]
                  [org.clojure/core.async "0.4.474"]
-                 [org.clojure/core.cache "0.6.5"]
+                 [org.clojure/core.cache "0.7.1"]
                  [org.clojure/core.memoize "0.5.8"]
                  [org.clojure/data.csv "0.1.4"]
                  [org.clojure/data.json "0.2.6"]
@@ -61,4 +61,5 @@
                  [slingshot "0.12.2"]
                  [throttler "1.0.0"]
                  [twitter-api "1.8.0"]
-                 [yogthos/config "0.8"]])
+                 [yogthos/config "0.8"]]
+  :plugins [[lein-cljfmt "0.5.7"]])
