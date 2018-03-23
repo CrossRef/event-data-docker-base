@@ -23,7 +23,7 @@
                  [crossref-util "0.1.14"]
                  [crossref/heartbeat "0.1.2"]
                  [enlive "1.1.6"]
-                 [event-data-common "0.1.43"]
+                 [event-data-common "0.1.47"]
                  [http-kit "2.3.0-alpha5"]
                  [http-kit.fake "0.2.1"]
                  [liberator "0.14.1"]
@@ -61,5 +61,6 @@
                  [slingshot "0.12.2"]
                  [throttler "1.0.0"]
                  [twitter-api "1.8.0"]
-                 [yogthos/config "0.8"]]
+                 [yogthos/config "0.8"]
+                 [crossref-util "0.1.14"]]
   :plugins [[lein-cljfmt "0.5.7"]])
